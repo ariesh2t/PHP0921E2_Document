@@ -1,0 +1,17 @@
+.header {
+    font-weight: bold;
+}
+
+hr {
+   border: none;
+    border-bottom: 1px solid #e0dddd;
+}
+
+input.form-control, textarea.form-control {
+   border-radius: 5px;
+    width: 500px;
+}
+
+input[type="radio"]{
+    margin: 0 2px 0 10px;
+}
